@@ -1,0 +1,4 @@
+Basic Linux Commands
+
+1) pwd - print working directory
+
